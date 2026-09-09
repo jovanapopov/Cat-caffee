@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jovanapopov.github.io/Cat-caffee/sitemap.xml
